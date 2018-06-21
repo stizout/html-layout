@@ -1,0 +1,35 @@
+header {
+    background: #d8d8d8;
+    height: 10vh;
+    padding: 10px;
+}
+
+#headerBox {
+    width: 10%;
+    height: 95%;
+    background: #4a90e2;
+    margin-left: 5px;
+}
+
+#bodyText {
+    padding: 40px;
+    height: 25vh;
+    box-sizing: border-box;
+}
+
+#blue {
+    background: #4a90e2;
+    height: 16vh;
+}
+#teal {
+    background: #50e3c2;
+    height: 16vh;
+}
+#green {
+    background: #b8e886;
+    height: 16vh;
+}
+#yellow {
+    background: #f8e71c;
+    height: 16vh;
+}
